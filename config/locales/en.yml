@@ -31,3 +31,19 @@
 
 en:
   hello: "Hello world"
+
+  welcome: "Welcome to the Sample App"
+
+  homepage: "This is the home page for the"
+
+  home: "Home"
+
+  help: "Help"
+
+  login: "Log in"
+
+  about: "About"
+
+  contact: "Contact"
+
+
